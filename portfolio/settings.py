@@ -25,7 +25,7 @@ SECRET_KEY = '=&)i(%9v&yjb(@vtph7k^r@gz7#-xs+#tmbooi%f_=hzz+78e='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crazia.org', ]
 
 
 # Application definition
